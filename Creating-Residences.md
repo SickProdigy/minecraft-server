@@ -38,6 +38,8 @@ Residence management
 
 if you are too lazy to select an area by hand or its too complicated to know where your residence ends and where it begins, you can use /res select auto command which will toggle automatic selection depending on where you move. So after turning this on, what its left for you to run around your residence from edge to edge and area will be selected for you while showing with particle effects what exactly got selected. 
 
+## Checking Flags and Beginning advice
+
 On residence creation, you will become the owner of that land. So you can change residence flags which will change the behavior of that area for other players or animals inside it.
 
 So first things first. If you want to keep it private, disable tp flag with /res set tp false this will prevent anyone else teleporting to your residence while you will have this option, as you are owner after all. Most servers default with false for other users who aren't the owner.
