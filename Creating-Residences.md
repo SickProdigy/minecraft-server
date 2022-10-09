@@ -24,21 +24,21 @@
 
 if you are too lazy to select an area by hand or its too complicated to know where your residence ends and where it begins, you can use /res select auto command which will toggle automatic selection depending on where you move. So after turning this on, what its left for you to run around your residence from edge to edge and area will be selected for you while showing with particle effects what exactly got selected. 
 
-## Auto Creation
+## Auto Residence Creation
 > Automatic creation has a couple of variations by itself. So let’s look at the first one. 
 
-`Auto Creation Method 1`
+`Auto Residence Creation Method 1`
 
 Stand in the middle of your house, ad perform /res auto (resName) (radius) where residence name is optional and if not provided will use players name. A radius is an option too, but you can provide max size of residence you want to create, in case you don’t want to spend all of your money. This command will create a residence as big as you can have around you by taking into consideration any residence which would overlap each other. 
 
-`Auto Creation Method 2`
+`Auto Residence Creation Method 2`
 
 Another option is to get your new residence by simply placing a chest on the ground for the first time on a server. This should be enabled in the config file and it can give out new tiny free residence or charge player accordingly if needed.
 Residence management
 
-On residence creation, you will become the owner of that land. So you can change residence flags which will change the behavior of that area for other players or animals inside it. 
+On residence creation, you will become the owner of that land. So you can change residence flags which will change the behavior of that area for other players or animals inside it.
 
-So first things first. If you want to keep it private, disable tp flag with /res set tp false this will prevent anyone else teleporting to your residence while you will have this option, as you are owner after all. 
+So first things first. If you want to keep it private, disable tp flag with /res set tp false this will prevent anyone else teleporting to your residence while you will have this option, as you are owner after all. Most servers default with false for other users who aren't the owner.
 
 To prevent a player from entering your residence use /res set move false which will prevent movement of other players inside your residence and will prevent teleportation to it.
 
