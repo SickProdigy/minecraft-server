@@ -42,116 +42,116 @@
 
 ## Flag Name – Description
 
-anvil – Allows or denys interaction with anvil.
-admin – Gives a player permission to change flags on a residence.
-animalkilling – Allows or denys animal killing.
-animals – Allows or denys animal spawns.
-anvilbreak – Allows or denys anvil break in residence.
-backup – If set to true, restores previous look of area (WordEdit required).
-bank – Allows or denys deposit/withdraw money from res bank.
-bed – Allows or denys players to use beds.
-beacon – Allows or denys interaction with beacon.
-brew – Allows or denys players to use brewing stands.
-build – Allows or denys building.
-burn – Allows or denys Mob combustion in residences.
-button – Allows or denys players to use buttons.
-cake – Allows or denys players to eat cake.
-canimals – Allows or denys custom animal spawns.
-chorustp – Allow or disallow teleporting to the residence with chorus fruit.
-chat – Allows to join residence chat room.
-cmonsters – Allows or denys custom monster spawns.
-commandblock – Allows or denys command block interaction.
-command – Allows or denys comamnd use in residences.
-container – Allows or denys use of furnaces, chests, dispensers, etc….
-coords – Hides residence coordinates.
-craft – Gives table, enchant, brew flags.
-creeper – Allow or deny creeper explosions.
-dragongrief – Prevents ender dragon block griefing.
-day – Sets day time in residence.
-dye – Allows or denys sheep dyeing.
-damage – Allows or denys all entity damage within the residence.
-decay – Allows or denys leave decay in the residence.
-destroy – Allows or denys only destruction of blocks, overrides the build flag.
-dryup – Prevents land from drying up.
-diode – Allows or denys players to use redstone repeaters.
-door – Allows or denys players to use doors and trapdoors.
-egg – Allows or denys interaction with dragon egg.
-enchant – Allows or denys players to use enchanting tables.
-explode – Allows or denys explosions in residences.
-enderpearl – Allow or disallow teleporting to the residence with enderpearl.
-fallinprotection – Protects from blocks falling into residence.
-falldamage – Protects players from fall damage.
-feed – Setting to true makes the residence feed its occupants.
-friendlyfire – Allow or disallow friendly fire.
-fireball – Allows or denys fire balls in residences.
-firespread – Allows or denys fire spread.
-flowinprotection – Allows or denys liquid flow into residence.
-flow – Allows or denys liquid flow.
-flowerpot – Allows or denys interaction with flower pot.
-grow – Allows or denys plant growing.
-glow – Players will start glowing when entering residence.
-hotfloor – Prevent damage from magma blocks.
-hidden – Hides residence from list or listall commands.
-hook – Allows or denys fishing rod hooking entities.
-healing – Setting to true makes the residence heal its occupants.
-iceform – Prevents from ice forming.
-icemelt – Prevents ice from melting.
-ignite – Allows or denys fire ignition.
-itemdrop – Allows or denys item drop.
-itempickup – Allows or denys item pickup.
-jump2 – Allows to jump 2 blocks high.
-jump3 – Allows to jump 3 blocks high.
-keepinv – Players keeps inventory after death.
-keepexp – Players keeps exp after death.
-lavaflow – Allows or denys lava flow, overrides flow.
-leash – Allows or denys aninal leash.
-lever – Allows or denys players to use levers.
-mobexpdrop – Prevents mob droping exp on death.
-mobitemdrop – Prevents mob droping items on death.
-mobkilling – Allows or denys mob killing.
-monsters – Allows or denys monster spawns.
-move – Allows or denys movement in the residence.
-nanimals – Allows or denys natural animal spawns.
-nmonsters – Allows or denys natural monster spawns.
-night – Sets night time in residence.
-nofly – Allows or denys fly in residence.
-fly – Toggles fly for players in residence.
-nomobs – Prevents monsters from entering residence.
-note – Allows or denys players to use note blocks.
-nodurability – Prevents item durability loss.
-overridepvp – Overrides any plugin pvp protection.
-pressure – Allows or denys players to use pressure plates.
-piston – Allow or deny pistons from pushing or pulling blocks in the residence.
-pistonprotection – Enables or disabled piston block move in or out of residence.
-place – Allows or denys only placement of blocks, overrides the build flag.
-pvp – Allow or deny pvp in the residence.
-rain – Sets weather to rainny in residence.
-redstone – Gives lever, diode, button, pressure, note flags.
-respawn – Automaticaly respawns player.
-riding – Prevent riding a horse.
-shoot – Allows or denys shooting projectile in area.
-sun – Sets weather to sunny in residence.
-shop – Adds residence to special residence shop list.
-snowtrail – Prevents snowman snow trails.
-spread – Prevents block spreading.
-snowball – Prevents snowball knockback.
-sanimals – Allows or denys spawner or spawn egg animal spawns.
-shear – Allows or denys sheep shear.
-smonsters – Allows or denys spawner or spawn egg monster spawns.
-subzone – Allow a player to make subzones in the residence.
-title – Shows or hides enter/leave message in residence.
-table – Allows or denys players to use workbenches.
-tnt – Allow or deny tnt explosions.
-tp – Allow or disallow teleporting to the residence.
-trade – Allows or denys villager trading in residence.
-trample – Allows or denys crop trampling in residence.
-trusted – Gives build, use, move, container and tp flags.
-use – Allows or denys use of doors, lever, buttons, etc…
-vehicledestroy – Allows or denys vehicle destroy.
-witherspawn – Allows or denys wither spawning.
-phantomspawn – Allows or denys phantom spawning.
-witherdamage – Allows or denys wither damage.
-witherdestruction – Allows or denys wither block damage.
-waterflow – Allows or denys water flow, overrides flow.
-wspeed1 – Change players walk speed in residence to %1.
-wspeed2 – Change players walk speed in residence to %1.
+* anvil – Allows or denys interaction with anvil.
+* admin – Gives a player permission to change flags on a residence.
+* animalkilling – Allows or denys animal killing.
+* animals – Allows or denys animal spawns.
+* anvilbreak – Allows or denys anvil break in residence.
+* backup – If set to true, restores previous look of area (WordEdit required).
+* bank – Allows or denys deposit/withdraw money from res bank.
+* bed – Allows or denys players to use beds.
+* beacon – Allows or denys interaction with beacon.
+* brew – Allows or denys players to use brewing stands.
+* build – Allows or denys building.
+* burn – Allows or denys Mob combustion in residences.
+* button – Allows or denys players to use buttons.
+* cake – Allows or denys players to eat cake.
+* canimals – Allows or denys custom animal spawns.
+* chorustp – Allow or disallow teleporting to the residence with chorus fruit.
+* chat – Allows to join residence chat room.
+* cmonsters – Allows or denys custom monster spawns.
+* commandblock – Allows or denys command block interaction.
+* command – Allows or denys comamnd use in residences.
+* container – Allows or denys use of furnaces, chests, dispensers, etc….
+* coords – Hides residence coordinates.
+* craft – Gives table, enchant, brew flags.
+* creeper – Allow or deny creeper explosions.
+* dragongrief – Prevents ender dragon block griefing.
+* day – Sets day time in residence.
+* dye – Allows or denys sheep dyeing.
+* damage – Allows or denys all entity damage within the residence.
+* decay – Allows or denys leave decay in the residence.
+* destroy – Allows or denys only destruction of blocks, overrides the build flag.
+* dryup – Prevents land from drying up.
+* diode – Allows or denys players to use redstone repeaters.
+* door – Allows or denys players to use doors and trapdoors.
+* egg – Allows or denys interaction with dragon egg.
+* enchant – Allows or denys players to use enchanting tables.
+* explode – Allows or denys explosions in residences.
+* enderpearl – Allow or disallow teleporting to the residence with enderpearl.
+* fallinprotection – Protects from blocks falling into residence.
+* falldamage – Protects players from fall damage.
+* feed – Setting to true makes the residence feed its occupants.
+* friendlyfire – Allow or disallow friendly fire.
+* fireball – Allows or denys fire balls in residences.
+* firespread – Allows or denys fire spread.
+* flowinprotection – Allows or denys liquid flow into residence.
+* flow – Allows or denys liquid flow.
+* flowerpot – Allows or denys interaction with flower pot.
+* grow – Allows or denys plant growing.
+* glow – Players will start glowing when entering residence.
+* hotfloor – Prevent damage from magma blocks.
+* hidden – Hides residence from list or listall commands.
+* hook – Allows or denys fishing rod hooking entities.
+* healing – Setting to true makes the residence heal its occupants.
+* iceform – Prevents from ice forming.
+* icemelt – Prevents ice from melting.
+* ignite – Allows or denys fire ignition.
+* itemdrop – Allows or denys item drop.
+* itempickup – Allows or denys item pickup.
+* jump2 – Allows to jump 2 blocks high.
+* jump3 – Allows to jump 3 blocks high.
+* keepinv – Players keeps inventory after death.
+* keepexp – Players keeps exp after death.
+* lavaflow – Allows or denys lava flow, overrides flow.
+* leash – Allows or denys aninal leash.
+* lever – Allows or denys players to use levers.
+* mobexpdrop – Prevents mob droping exp on death.
+* mobitemdrop – Prevents mob droping items on death.
+* mobkilling – Allows or denys mob killing.
+* monsters – Allows or denys monster spawns.
+* move – Allows or denys movement in the residence.
+* nanimals – Allows or denys natural animal spawns.
+* nmonsters – Allows or denys natural monster spawns.
+* night – Sets night time in residence.
+* nofly – Allows or denys fly in residence.
+* fly – Toggles fly for players in residence.
+* nomobs – Prevents monsters from entering residence.
+* note – Allows or denys players to use note blocks.
+* nodurability – Prevents item durability loss.
+* overridepvp – Overrides any plugin pvp protection.
+* pressure – Allows or denys players to use pressure plates.
+* piston – Allow or deny pistons from pushing or pulling blocks in the residence.
+* pistonprotection – Enables or disabled piston block move in or out of residence.
+* place – Allows or denys only placement of blocks, overrides the build flag.
+* pvp – Allow or deny pvp in the residence.
+* rain – Sets weather to rainny in residence.
+* redstone – Gives lever, diode, button, pressure, note flags.
+* respawn – Automaticaly respawns player.
+* riding – Prevent riding a horse.
+* shoot – Allows or denys shooting projectile in area.
+* sun – Sets weather to sunny in residence.
+* shop – Adds residence to special residence shop list.
+* snowtrail – Prevents snowman snow trails.
+* spread – Prevents block spreading.
+* snowball – Prevents snowball knockback.
+* sanimals – Allows or denys spawner or spawn egg animal spawns.
+* shear – Allows or denys sheep shear.
+* smonsters – Allows or denys spawner or spawn egg monster spawns.
+* subzone – Allow a player to make subzones in the residence.
+* title – Shows or hides enter/leave message in residence.
+* table – Allows or denys players to use workbenches.
+* tnt – Allow or deny tnt explosions.
+* tp – Allow or disallow teleporting to the residence.
+* trade – Allows or denys villager trading in residence.
+* trample – Allows or denys crop trampling in residence.
+* trusted – Gives build, use, move, container and tp flags.
+* use – Allows or denys use of doors, lever, buttons, etc…
+* vehicledestroy – Allows or denys vehicle destroy.
+* witherspawn – Allows or denys wither spawning.
+* phantomspawn – Allows or denys phantom spawning.
+* witherdamage – Allows or denys wither damage.
+* witherdestruction – Allows or denys wither block damage.
+* waterflow – Allows or denys water flow, overrides flow.
+* wspeed1 – Change players walk speed in residence to %1.
+* wspeed2 – Change players walk speed in residence to %1.
