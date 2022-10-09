@@ -6,8 +6,8 @@ The use of the asterisks * wildcard character provides access to all permissions
 -residence.admin.* would deny access to all admin commands.
 Permissions denoted by (OP) require the player with the permission to be in the ops.json file.
 
-**residence.chatcolor** – Allows to change residence chat color.
-residence.chatprefix – Allows to change residence chat prefix.
+* **residence.chatcolor** – Allows to change residence chat color.
+* residence.chatprefix – Allows to change residence chat prefix.
 residence.chatkick – Allows to kick player from residence chat.
 residence.permisiononerror – Allows to see missing permission on error message.
 residence.command.message.enter – Allows to change residence enter message.
