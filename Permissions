@@ -1,6 +1,6 @@
-#Permissions
+# Permissions
 
-##The list of permissions below provides the player who has the permission, access to the feature of the plugin.
+## The list of permissions below provides the player who has the permission, access to the feature of the plugin.
 For example, if JohnDoe has residence.command.list.others when he logs in, he will be able to type in /res listall and see all player residences.
 The use of the asterisks * wildcard character provides access to all permissions that begin with residence. if the residence.* permission was granted.
 -residence.admin.* would deny access to all admin commands.
