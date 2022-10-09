@@ -22,8 +22,6 @@
 
 > Selection does have additional variables which can help out to select an area to your liking, so check out commands section. 
 
-if you are too lazy to select an area by hand or its too complicated to know where your residence ends and where it begins, you can use /res select auto command which will toggle automatic selection depending on where you move. So after turning this on, what its left for you to run around your residence from edge to edge and area will be selected for you while showing with particle effects what exactly got selected. 
-
 ## Auto Residence Creation
 > Automatic creation has a couple of variations by itself. So let’s look at the first one. 
 
@@ -35,6 +33,10 @@ Stand in the middle of your house, ad perform /res auto (resName) (radius) where
 
 Another option is to get your new residence by simply placing a chest on the ground for the first time on a server. This should be enabled in the config file and it can give out new tiny free residence or charge player accordingly if needed.
 Residence management
+
+`Auto Residence Creation Method 3`
+
+if you are too lazy to select an area by hand or its too complicated to know where your residence ends and where it begins, you can use /res select auto command which will toggle automatic selection depending on where you move. So after turning this on, what its left for you to run around your residence from edge to edge and area will be selected for you while showing with particle effects what exactly got selected. 
 
 On residence creation, you will become the owner of that land. So you can change residence flags which will change the behavior of that area for other players or animals inside it.
 
