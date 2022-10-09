@@ -1,22 +1,24 @@
-Residence can be created in multiple ways. This ranges from a manual selection of the area to automatic creation when you place your first chest on a ground.
+# Creating Residences
 
-Manual selection
+> Residence can be created in multiple ways. This ranges from a manual selection of the area to automatic creation when you place your first chest on a ground.
 
-Select the residence selection tool, which by default is wooden hoe. You can double-check the selection tool with /res tool command. 
+## Manual selection
 
-While holding the selection tool in your main hand, select 2 opposite points with left and right mouse clicks. After clicking with left mouse, you will get feedback message similar to
+* Select the residence selection tool, which by default is wooden hoe. You can double-check the selection tool with /res tool command. 
 
-After selecting the priamry point, go to the oposite side of your residence and right-click block. This, again, will output similar feedback message
+* While holding the selection tool in your main hand, select 2 opposite points with left and right mouse clicks. After clicking with left mouse, you will get feedback message similar to
 
-After selecting 2 points you will get additional message into an action bar with a size of selection and how much will it cost for you to create a residence like this.
+* After selecting the priamry point, go to the oposite side of your residence and right-click block. This, again, will output similar feedback message
 
-In addition to this selected are will be shown with particles to indicate exactly which area gets protected after creation. 
+* After selecting 2 points you will get additional message into an action bar with a size of selection and how much will it cost for you to create a residence like this.
 
-In case you are not happy which area got selected, you can reselect points or use commands like /res select expand [amount] or /res select contract [amount] to contract or expand the selection to the direction you are looking at. So you can tweak selection to your own liking. 
+* * In addition to this selected are will be shown with particles to indicate exactly which area gets protected after creation. 
 
-After you decided that selection is correct and encloses the entire area you want to protect, there is one last thing you need to do. You will need to perform /res create [resName] command. So if you want to create a residence with the name of SweetHome then the command will look like /res create SweetHome after which you will get additional feedback message with extra information and protected are will get marked again to indicate what exactly got protected. 
+* * In case you are not happy which area got selected, you can reselect points or use commands like /res select expand [amount] or /res select contract [amount] to contract or expand the selection to the direction you are looking at. So you can tweak selection to your own liking. 
 
-And you are done! You have your home protected from griefers and you can be safe in this area.
+* After you decided that selection is correct and encloses the entire area you want to protect, there is one last thing you need to do. You will need to perform /res create [resName] command. So if you want to create a residence with the name of SweetHome then the command will look like /res create SweetHome after which you will get additional feedback message with extra information and protected are will get marked again to indicate what exactly got protected. 
+
+* * And you are done! You have your home protected from griefers and you can be safe in this area.
 
 Selection does have additional variables which can help out to select an area to your liking, so check out commands section. 
 
