@@ -20,7 +20,7 @@
 
  * And you are done! You have your home protected from griefers and you can be safe in this area.
 
-> Selection does have additional variables which can help out to select an area to your liking, so check out commands section. 
+> Selection has additional variables which can help out to fine tune selections to your liking, so check out commands section for other command variables to use or just keep reading.
 
 ## Auto Residence Creation
 > Automatic creation has a couple of variations by itself. So let’s look at the first one. 
