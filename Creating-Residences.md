@@ -48,7 +48,7 @@ Do you have friends? Not an issue! Simply use /res padd [playerName] while stran
 
 Each player can have different permissions for each residence. So you can prevent particular players from entering your residence but allow everyone else. For this you can simply use /res pset [playerName] move false while standing inside a residence.
 
-> You can always double-check who has access to a particular residence with /res info command. This will output permission limitations for residence itself and for each player you have set specific permission nodes. 
+> You can always double-check who has access to a particular residence with `/res info` command. This will output permission limitations for residence itself and for each player you have set specific permission nodes. 
 
 In case you don’t have full trust in someone, but you want to live in the same residence, then you can use subzones. What is subzone? You can think about them as residence inside a residence. Simply use previous methods to select the area inside your residence and perform /res subzone firstSub to create the first subzone with the name of firstSub. This new area can have different flags set to it. So you can give more permission for players in that area, but limit access everywhere else.
 
