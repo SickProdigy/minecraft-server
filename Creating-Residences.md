@@ -65,3 +65,12 @@ You got rich and you want to expand residence? Well, it’s as simple as it can 
 * [Commands](/Commands.md)
 * [Permissions](/Permissions.md)
 * [Flags Documentation](/Flags-Documentation.md)
+
+## Test Links
+
+[^1]: My reference.
+[^2]: Every new line should be prefixed with 2 spaces.  
+  This allows you to have a footnote with multiple lines.
+[^note]:
+    Named footnotes will still render with numbers instead of the text but allow easier identification and linking.  
+    This footnote also has been made with a different syntax using 4 spaces for new lines.
