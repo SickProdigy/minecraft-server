@@ -37,8 +37,11 @@ command.
   * > Future Image here
 
 * And you are done! You have your home protected from griefers and you can be safe in this area.
- > Selection has additional variables which can help out to fine tune selections to your liking, here's a couple helpful links
+
+> Selection has additional variables which can help out to fine tune selections to your liking, here's a couple helpful links
   * [Residence Creation Commands](/Commands.md#creation-commands)
+
+This guide may have all the info you need, so please continue until the end!
 
 ## Auto Residence Creation
 > Automatic creation has a couple of variations by itself. So let’s look at the first one. 
