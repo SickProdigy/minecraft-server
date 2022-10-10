@@ -1,8 +1,11 @@
 # MC-Residences-Spigot
 > Residences plugin for spigot minecraft backup info
 
-##Links:
+## Links:
 * [Creating Residences](/Creating-Residences.md)
+* [Commands](/Commands.md)
+* [Permissions](/Permissions.md)
+* [Flags Documentation](/Flags-Documentation.md)
 
 Website keeps going down so backing up commands, perms, and other information.
 Some information will be change and/or updated. Some explanations weren't explained very well, so I will try to put more detail into where there needs to be.
