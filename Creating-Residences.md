@@ -16,12 +16,24 @@ command.
 
 * After selecting 2 points you will get additional message into an action bar with a size of selection and how much will it cost for you to create a residence like so:
   * > Future Image here
+  * In addition to this selected area will be shown with particles to indicate exactly which area gets protected after creation. 
 
- * In addition to this selected area will be shown with particles to indicate exactly which area gets protected after creation. 
+In case you are not happy which area got selected, you can reselect points or use commands like
+> /res select expand [amount] 
 
- * In case you are not happy which area got selected, you can reselect points or use commands like /res select expand [amount] or /res select contract [amount] to contract or expand the selection to the direction you are looking at. So you can tweak selection to your own liking. 
+or 
 
-* After you decided that selection is correct and encloses the entire area you want to protect, there is one last thing you need to do. You will need to perform /res create [resName] command. So if you want to create a residence with the name of SweetHome then the command will look like /res create SweetHome after which you will get additional feedback message with extra information and protected are will get marked again to indicate what exactly got protected. 
+> /res select contract [amount] 
+
+to contract or expand the selection to the direction you are looking at. So you can tweak selection to your own liking. 
+
+* After you decided that selection is correct and encloses the entire area you want to protect, there is one last thing you need to do. You will need to perform 
+> /res create [resName] 
+
+command. So if you want to create a residence with the name of SweetHome then the command will look like 
+> /res create SweetHome 
+
+  * after which you will get additional feedback message with extra information and protected are will get marked again to indicate what exactly got protected. 
 
  * And you are done! You have your home protected from griefers and you can be safe in this area.
 
