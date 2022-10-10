@@ -2,17 +2,22 @@
 
 > Residence can be created in multiple ways. This ranges from a manual selection of the area to automatic creation when you place your first chest on a ground.
 
-## Manual selection
+## Manual Residence Selection
 
-* Select the residence selection tool, which by default is wooden hoe. You can double-check the selection tool with /res tool command. 
+* Select the residence selection tool, which by default is wooden hoe. You can double-check the selection tool with 
+> /res tool 
+command. 
 
-* While holding the selection tool in your main hand, select 2 opposite points with left and right mouse clicks. After clicking with left mouse, you will get feedback message similar to
+* While holding the selection tool in your main hand, select 2 opposite points with left and right mouse clicks. After clicking with left mouse, you will get feedback message similar to:
+* * > Future Image here
 
-* After selecting the priamry point, go to the oposite side of your residence and right-click block. This, again, will output similar feedback message
+* After selecting the primary point, go to the opposite side of your residence and right-click block. This, again, will output similar feedback message:
+* * > Future Image here
 
-* After selecting 2 points you will get additional message into an action bar with a size of selection and how much will it cost for you to create a residence like this.
+* After selecting 2 points you will get additional message into an action bar with a size of selection and how much will it cost for you to create a residence like so:
+* * > Future Image here
 
- * In addition to this selected are will be shown with particles to indicate exactly which area gets protected after creation. 
+ * In addition to this selected area will be shown with particles to indicate exactly which area gets protected after creation. 
 
  * In case you are not happy which area got selected, you can reselect points or use commands like /res select expand [amount] or /res select contract [amount] to contract or expand the selection to the direction you are looking at. So you can tweak selection to your own liking. 
 
