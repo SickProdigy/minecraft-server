@@ -9,13 +9,13 @@
 command. 
 
 * While holding the selection tool in your main hand, select 2 opposite points with left and right mouse clicks. After clicking with left mouse, you will get feedback message similar to:
-* * > Future Image here
+  * > Future Image here
 
 * After selecting the primary point, go to the opposite side of your residence and right-click block. This, again, will output similar feedback message:
-* * > Future Image here
+  * > Future Image here
 
 * After selecting 2 points you will get additional message into an action bar with a size of selection and how much will it cost for you to create a residence like so:
-* * > Future Image here
+  * > Future Image here
 
  * In addition to this selected area will be shown with particles to indicate exactly which area gets protected after creation. 
 
