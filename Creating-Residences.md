@@ -59,3 +59,10 @@ In case you don’t have full trust in someone, but you want to live in the same
 ## Expanding Residence
 
 You got rich and you want to expand residence? Well, it’s as simple as it can get. Simply stand in your main residence area (not subzone) look at the direction you want to expand and perform /res expand [amount] where the amount is how many blocks you want to expand into that direction. After which your residence will update its protection area and you will be charged with an appropriate amount for doing that. The same thing works if you want to shrink its size, the command will be /res contract [amount]
+
+## Links:
+* [Residences Home](/ReadMe.md)
+## Useful Links:
+* [Commands](/Commands.md)
+* [Permissions](/Permissions.md)
+* [Flags Documentation](/Flags-Documentation.md)
