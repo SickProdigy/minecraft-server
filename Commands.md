@@ -20,12 +20,12 @@
 
 ## Creation Commands
 
-*    /res area [add/remove/replace] [areaID] – Add or remove areas to the residence. These can overlap with areas of the same residence.
-*    /res create [ResidenceName] – create a residence
-*    /res remove [ResidenceName] – remove a residence
+*    /res area [add/remove/replace] [areaID] – Add or remove areas to the residence. These can overlap with areas of the same residence. (areaID can be anything, just labels the new area)
+*    /res create [ResidenceName] – create a residence, name it something easy to remember.
+*    /res remove [ResidenceName] – remove a residence.
 *    /res removeall – remove all your residences
 *    /res subzone [SubZoneName] – create a subzone in your residence. You must be the owner to do this.
-*    /res auto (residence name) (radius) – Create maximum allowed residence around you
+*    /res auto (residence name) (radius) – Create maximum allowed residence around you.
 *    /res confirm – Confirms removal of a residence.
 
 ## Info Commands
