@@ -15,7 +15,9 @@
 *    /res select expand [amount] – Expand selection in direction your looking.
 *    /res select size – show selected area size
 *    /res select shift [amount] – Shift selection in direction your looking.
-*    /res select vert – expand selection from sky to bedrock
+*    /res select vert – Expand selection from sky to bedrock.
+*    /res select sky – Expand selection to sky.
+*    /res select bedrock – Expand selection to bedrock
 *    /res select worldedit – use an area defined by WorldEdit
 
 ## Creation Commands
