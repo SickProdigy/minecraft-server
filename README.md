@@ -2,10 +2,10 @@
 > Residences Plugin by zrips, SickProdigy's Guides and helpful info.
 
 ## Links:
-* [Creating Residences](/Creating-Residences.md)
-* [Commands](/Commands.md)
-* [Permissions](/Permissions.md)
-* [Flags Documentation](/Flags-Documentation.md)
+* [Creating Residences](Creating-Residences.md)
+* [Commands](Commands.md)
+* [Permissions](Permissions.md)
+* [Flags Documentation](Flags-Documentation.md)
 
 This is a backup generally of [zrips.com/residence](https://www.zrips.net/residence/) with many edits made by me. 
 
