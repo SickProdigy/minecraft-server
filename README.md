@@ -71,3 +71,18 @@ Ideas for VIP-Gold
 - Private Discord Mic Channel (This could get cluttery bad, maybe only offer to VIP Platinum members, which is above VIP-diamond, so only really high rank donators)
 - Private TeamSpeak Mic Channel (same thing applies)
 Also upgrades on SickGaming Website if they sign up for an account. VIP Gold/ VIP Diamond groups with their own custom tutorials and information. 
+
+What you get with minecraft VIP
+
+GOLD
+5 Land Claims/ Residences
+Can Sell your Residences.
+4 slot Backpack
+
+Default
+3 Residences
+No BackPack
+
+Diamond
+10 Land Claims / Residences
+Can Sell Residences 
