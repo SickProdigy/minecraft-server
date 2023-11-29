@@ -1,6 +1,6 @@
 # Ideas for VIP-Gold
 
-** Random Ideas: **
+**Random Ideas:**
 - Extra Home spawns
 - Access to different warp portals (nether, dungeons, castles, server-made towns)
 - Able to post more auction house items at 1 time (limit the amount of things for normal users or make an auto auction button for premium that will automatically list at a good price)
@@ -13,15 +13,15 @@ Also upgrades on SickGaming Website if they sign up for an account. VIP Gold/ VI
 
 ## What you get with minecraft VIP
 
-** GOLD **
+**GOLD**
 - 5 Land Claims/ Residences
 - Can Sell your Residences.
 - 4 slot Backpack
 
-** Default **
+**Default**
 - 3 Residences
 - No BackPack
 
-** Diamond **
+**Diamond**
 - 10 Land Claims / Residences
 - Can Sell Residences 
