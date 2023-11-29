@@ -1,9 +1,10 @@
 # McEcon SickGaming MineCraft Spigot Server - 
-> Residences Plugin by zrips, SickProdigy's Guides and helpful info.
+> SickProdigy's Guides and helpful info.
 
+[SickGaming Website; Minecraft Forum: Tutorials and Information for Minecraft/Plugins/Residences.](https://www.sickgaming.net/forum-103.html)
 
-## Residences (Grief prevention, Land Claim)
-Links:
+## Residences (Grief prevention, Land Claim alternative, Plugin by zrips)
+Links to helpful information:
 * [Creating Residences](Residences/Creating-Residences.md)
 * [Commands](Residences/Commands.md)
 * [Permissions](Residences/Permissions.md)
@@ -11,14 +12,14 @@ Links:
 
 This is a backup generally of [zrips.com/residence](https://www.zrips.net/residence/) with many edits made by me. 
 
-I will be uploading config files I think should be pretty standard when starting a survival MC server soon.
-
-Some information will be changed and/or updated. Some explanations were slightly vague, so I will try to put more detail into where I believe there needs to be, along with cutting extras that aren't necessary IMO.
-
-If you find this useful, [checkout my other tutorials and information here for minecraft/plugins/residences.](https://www.sickgaming.net/forum-103.html)
-
 [Buy the plugin here!](https://www.spigotmc.org/resources/residence-1-7-10-up-to-1-19.11480/)
 [Zrips Site](https://www.zrips.net/residence/)
+
+---
+
+I will be uploading config files soon.
+
+---
 
 ## Looking for moderators and developers for the McEcon server.
 
@@ -28,6 +29,8 @@ If you find this useful, [checkout my other tutorials and information here for m
 * Social promotion operations, youtube and twitch advocates (people who will shout out our server), Web Traffic Officers (SEO experts)
 * Payment gateway to incorporate forums, with discord, and minecraft all together. Auto assigning roles to the users in question everywhere that needs be.
 * Accounting Executive, to distribute funds properly once we get rolling.
+
+---
 
 *Getting these things done are the most important tasks at this point.*
 
@@ -60,30 +63,3 @@ To Do
 The rest is tbc
 
 10/15/23
-
-Ideas for VIP-Gold
-
-- Extra Home spawns
-- Access to different warp portals (nether, dungeons, castles, server-made towns)
-- Able to post more auction house items at 1 time (limit the amount of things for normal users or make an auto auction button for premium that will automatically list at a good price)
-- Custom kits? Daily custom kits. Weekly. Monthly.
-- Higher daily payout from economy
-- Can /ignoreserver to mute all the server popups that can be rather annoying in chat or on screen. (like "invite your friends here" or "discord linK:")
-- Private Discord Mic Channel (This could get cluttery bad, maybe only offer to VIP Platinum members, which is above VIP-diamond, so only really high rank donators)
-- Private TeamSpeak Mic Channel (same thing applies)
-Also upgrades on SickGaming Website if they sign up for an account. VIP Gold/ VIP Diamond groups with their own custom tutorials and information. 
-
-What you get with minecraft VIP
-
-GOLD
-5 Land Claims/ Residences
-Can Sell your Residences.
-4 slot Backpack
-
-Default
-3 Residences
-No BackPack
-
-Diamond
-10 Land Claims / Residences
-Can Sell Residences 
