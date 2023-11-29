@@ -1,7 +1,9 @@
-# MineCraft - Residences - Spigot
+# McEcon SickGaming MineCraft Spigot Server - 
 > Residences Plugin by zrips, SickProdigy's Guides and helpful info.
 
-## Links:
+
+## Residences (Grief prevention, Land Claim)
+Links:
 * [Creating Residences](Creating-Residences.md)
 * [Commands](Commands.md)
 * [Permissions](Permissions.md)
@@ -11,24 +13,23 @@ This is a backup generally of [zrips.com/residence](https://www.zrips.net/reside
 
 I will be uploading config files I think should be pretty standard when starting a survival MC server soon.
 
-Some information will be changed and/or updated. Some explanations were slightly vague, so I will try to put more detail into where I believe there needs to be, along with cutting out a lot of extras that isn't really necessary IMO.
+Some information will be changed and/or updated. Some explanations were slightly vague, so I will try to put more detail into where I believe there needs to be, along with cutting extras that aren't necessary IMO.
 
 If you find this useful, [checkout my other tutorials and information here for minecraft/plugins/residences.](https://www.sickgaming.net/forum-103.html)
 
 [Buy the plugin here!](https://www.spigotmc.org/resources/residence-1-7-10-up-to-1-19.11480/)
 [Zrips Site](https://www.zrips.net/residence/)
 
+## Looking for moderators and developers for the McEcon server.
 
-Looking for moderators and developers for the McEcon server.
+### Main jobs:
+* graphics / in game menus / text and readable menus
+* plugin integrations, making them flow together better server side, so client side can look nicer.
+* Social promotion operations, youtube and twitch advocates (people who will shout out our server), Web Traffic Officers (SEO experts)
+* Payment gateway to incorporate forums, with discord, and minecraft all together. Auto assigning roles to the users in question everywhere that needs be.
+* Accounting Executive, to distribute funds properly once we get rolling.
 
-Main jobs:
-*graphics / in game menus / text and readable menus
-*plugin integrations, making them flow together better server side, so client side can look nicer.
-*Social promotion operations, youtube and twitch advocates (people who will shout out our server), Web Traffic Officers (SEO experts)
-*Payment gateway to incorporate forums, with discord, and minecraft all together. Auto assigning roles to the users in question everywhere that needs be.
-*Accounting Executive, to distribute funds properly once we get rolling.
-
-Getting these things done are the most important tasks at this point.
+*Getting these things done are the most important tasks at this point.*
 
 I've done a lot with serverboard, coding it to almost perfection, I think, that will make it easy to find McEcon for new visitors. With links pointing to vote for the server, find information, or direct them to the SickGaming thread.
 
