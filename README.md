@@ -17,7 +17,8 @@ This is a backup generally of [zrips.com/residence](https://www.zrips.net/reside
 
 ---
 
-I will be uploading config files soon.
+## McEcon VIP
+* [VIP](VIP.md)
 
 ---
 
@@ -33,6 +34,10 @@ I will be uploading config files soon.
 ---
 
 *Getting these things done are the most important tasks at this point.*
+
+---
+
+## Random Changelog:
 
 I've done a lot with serverboard, coding it to almost perfection, I think, that will make it easy to find McEcon for new visitors. With links pointing to vote for the server, find information, or direct them to the SickGaming thread.
 
