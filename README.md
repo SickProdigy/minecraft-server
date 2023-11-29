@@ -1,7 +1,7 @@
-# McEcon SickGaming MineCraft Spigot Server - 
+# McEcon SickGaming MineCraft Spigot Server
 > SickProdigy's Guides and helpful info.
 
-[SickGaming Website; Minecraft Forum: Tutorials and Information for Minecraft/Plugins/Residences.](https://www.sickgaming.net/forum-103.html)
+[SickGaming Website; Minecraft Forum: Official Tutorials and Information for Minecraft/Plugins/Residences.](https://www.sickgaming.net/forum-103.html)
 
 ## Residences (Grief prevention, Land Claim alternative, Plugin by zrips)
 Links to helpful information:
@@ -18,7 +18,7 @@ This is a backup generally of [zrips.com/residence](https://www.zrips.net/reside
 ---
 
 ## McEcon VIP
-* [VIP](VIP.md)
+* [VIP + Benefits](VIP.md)
 
 ---
 
