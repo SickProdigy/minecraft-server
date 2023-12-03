@@ -35,10 +35,18 @@
 ##  Examples:
 * To allow all players to “build” in a residence, add the build flag.
 > /res set Z-Castle build true
+* Asign flags to everyone in a residence
+> /resadmin set spawn true
+> /resadmin set builder true
 * To allow specific players to “build” in a residence, add the build flag.
 > /res pset Z-Castle johndoe build true
+* Allow specific player grouped flags
+> /res pset username builder true
 * To remove all flags from a residence for a specific player.
 > /res pset Z-Castle johndoe removeall
+* Reset flags to default (Inside residence standing in)
+> /res reset
+> /resadmin reset
 
 ## Flag Name – Description
 
