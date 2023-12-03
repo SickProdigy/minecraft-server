@@ -14,6 +14,8 @@
 
 ## Predefined Flag List Permission Commands
 
+*Note* Haven't been successful with this approach. Can't even really figure out how to create a 'predefined flag list', I have better luck adding groups into the flags.yml file and then use some of the commands above. One would think this set of options would make the process I was doing more GUI friendly or something, while having the code based in same location. Not sure though
+
 > The commands in this section define a list to be used when residences are created. A residence [ListName] with either [PlayerName] or [GroupName] are applied to a Residence when the /res lists apply command is executed. /res lists - the command by itself without the arguments displays a lit of options to choose from which allows changes to predefined list of Flag Permissions for a Residence, Player or Group.
 
 * /res lists add [ListName] - create a flag permissions list.
