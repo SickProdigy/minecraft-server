@@ -73,7 +73,7 @@ Added jobs reborn, dynmap back, thought it might of been slowing down the spigot
 Just changed to paper, and soooo much faster. Should have done this awhile ago really.
 With jobs reborn you get paid for exploring and anything and everything you do.
 Not sure why it go deleted, but definitely needed as a economy server. Adding issues with to do list from earlier updates now.
-- Issue #6
-- Issue #5
+- Issue #6 https://gitea.rcs1.xyz/SickGaming/minecraft-server/issues/6
+- Issue #5 https://gitea.rcs1.xyz/SickGaming/minecraft-server/issues/5
 
 Still other issues
