@@ -1,4 +1,4 @@
-# McEcon SickGaming MineCraft Spigot Server
+# McEcon SickGaming MineCraft Server
 > SickProdigy's Guides and helpful info.
 
 [SickGaming Website; Minecraft Forum: Official Tutorials and Information for Minecraft/Plugins/Residences.](https://www.sickgaming.net/forum-103.html)
@@ -12,8 +12,8 @@ Links to helpful information:
 
 This is a backup generally of [zrips.com/residence](https://www.zrips.net/residence/) with many edits made by me. 
 
-[Buy the plugin here!](https://www.spigotmc.org/resources/residence-1-7-10-up-to-1-19.11480/)
 [Zrips Site](https://www.zrips.net/residence/)
+[Buy the plugin here!](https://www.spigotmc.org/resources/residence-1-7-10-up-to-1-19.11480/)
 
 ---
 
@@ -24,7 +24,7 @@ This is a backup generally of [zrips.com/residence](https://www.zrips.net/reside
 
 ## Looking for moderators and developers for the McEcon server.
 
-### Main jobs:
+### Main jobs: (To Do List)
 * graphics / in game menus / text and readable menus
 * plugin integrations, making them flow together better server side, so client side can look nicer.
 * Social promotion operations, youtube and twitch advocates (people who will shout out our server), Web Traffic Officers (SEO experts)
@@ -66,5 +66,13 @@ To Do
 - resident CustomText to explain how to create residences in game. Maybe have a walk through somewhere.
 
 The rest is tbc
-
 10/15/23
+
+Update: 1/27/24
+Added jobs reborn, dynmap back, thought it might of been slowing down the spigot server.
+Just changed to paper, and soooo much faster. Should have done this awhile ago really.
+With jobs reborn you get paid for exploring and anything and everything you do.
+Not sure why it go deleted, but definitely needed as a economy server. Adding issues with to do list from earlier updates now.
+Issue #6
+Issue #5
+Still other issues
