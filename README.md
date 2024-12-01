@@ -77,3 +77,10 @@ Not sure why it go deleted, but definitely needed as a economy server. Adding is
 - Issue https://gitea.rcs1.xyz/SickGaming/minecraft-server/issues/5
 
 Still other issues
+
+Update: 12/1/24
+
+Updated to 1.21.3
+Most plugins updated, need to update MyWorlds when the update comes out
+Only plugin slightly lacking right now i think. Rest are mostly up to date.
+Booted and connected no issues
