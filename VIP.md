@@ -1,30 +1,30 @@
-# Ideas for VIP-Gold
+# VIP Benefits
 
-## What you get with minecraft VIP
-- Access to different warp portals in town. (Private creative world, VIP only survival world)
-- Custom kits; Daily. Weekly. Monthly.
-- Higher daily payout from economy
-- Can /ignoreserver to mute all the server popups that can be rather annoying in chat or on screen. (like "invite your friends here" or "discord linK:")
-- VIP Gold membership on SickGaming.net
+VIP inherits all regular-player commands and currently adds benefits confirmed by
+LuckPerms and Residence configuration.
 
-### Residences Benefits
-**Default**
-- 3 Residences
-- No BackPack
-**GOLD**
-- 5 Land Claims/ Residences
-- Can Sell your Residences.
-- 4 slot Backpack
-**Diamond**
-- 10 Land Claims / Residences
-- Can Sell Residences 
+## Confirmed VIP access
 
+- The CMI `diamond-kit`
+- Access to the CMI portal named `flatness`
+- The Residence `VIP` profile
 
+## VIP Residence limits
 
-**Random Ideas:**
-- Extra Home spawns
-- Able to post more auction house items at 1 time (limit the amount of things for normal users or make an auto auction button for premium that will automatically list at a good price)
-- Private Discord Mic Channel (This could get cluttery bad, maybe only offer to VIP Platinum members, which is above VIP-diamond, so only really high rank donators)
-- Private TeamSpeak Mic Channel (same thing applies)
-Also upgrades on SickGaming Website if they sign up for an account. VIP Gold/ VIP Diamond groups with their own custom tutorials and information. 
+- Up to 15 Residences
+- Up to 10 physical areas per Residence
+- Maximum 100×100 horizontal claim size
+- Maximum 320-block vertical size
+- Subzones up to depth 3
+- Custom Residence enter and leave messages
+- Residence buying, selling, and renting features
 
+Run `/res limits` in game for the live values. Server configuration takes
+precedence if this page has not yet been updated.
+
+## Possible future benefits
+
+The following were previously discussed but are not confirmed by the current
+permission audit: extra homes, additional auction listings, private voice
+channels, increased economy payouts, and website rank integration. They should
+not be advertised as active until configured and verified.

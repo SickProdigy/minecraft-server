@@ -29,11 +29,14 @@ rank; the signs and menus at spawn are the live list.
 ## Community and convenience
 
 - DiscordSRV connects supported Minecraft and Discord community features.
-- Dynmap supplies a browser world map when enabled.
 - ChatEmojis adds supported emoji shortcuts to chat.
 - `/playtimerewards` shows play-time rewards.
 - `/discord`, `/website`, and `/donate` show approved links.
 
-AuthMe, FastLogin, Floodgate, ProtocolLib, ViaVersion, and ViaBackwards support
-account access and compatibility. Follow login instructions shown in game and
+AuthMe, Floodgate, ViaVersion, and ViaBackwards support account access and
+compatibility. Follow login instructions shown in game and
 never share passwords or recovery information.
+
+
+See [Active Plugins and Commands](Plugins.md) for the current startup-verified
+plugin inventory.

@@ -10,7 +10,9 @@ understanding the rules.
 ## Start here
 
 - [Getting started](Getting-Started.md) — essentials for a new player
-- [Player commands](Commands.md) — confirmed commands and examples
+- [Player commands](Commands.md) — common commands and examples
+- [Commands by group](Command-Permissions.md) — regular, VIP, builder, and staff access
+- [Active plugins](Plugins.md) — command ownership and support plugins
 - [Server features](Features.md) — economy, cross-play, worlds, and integrations
 - [Server rules](Rules.md) — standards every player must follow
 - [VIP benefits](VIP.md) — rank benefits and ideas
