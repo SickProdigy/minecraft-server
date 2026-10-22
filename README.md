@@ -32,4 +32,6 @@ Use `/help` in game for support, Residence help, your balance, rules, and Discor
 Tutorials and announcements are also available in the
 [SickGaming Minecraft forum](https://www.sickgaming.net/forum-103.html).
 
-If something here is outdated, tell staff which page and command need correction.
+If something here is outdated, [open an issue](/SickGaming/minecraft-server/issues)
+or notify a staff member through the SickGaming forum or Discord. Include the
+page name and the information that needs correction.
