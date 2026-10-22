@@ -1,86 +1,35 @@
-# McEcon SickGaming MineCraft Server
-> SickProdigy's Guides and helpful info.
+# McEcon Minecraft Server Guide
 
-[SickGaming Website; Minecraft Forum: Official Tutorials and Information for Minecraft/Plugins/Residences.](https://www.sickgaming.net/forum-103.html)
+Welcome to McEcon, the SickGaming Minecraft server. This is the player handbook
+for joining the community, using commands, protecting land, earning money, and
+understanding the rules.
 
-## Residences (Grief prevention, Land Claim alternative, Plugin by zrips)
-Links to helpful information:
-* [Creating Residences](Residences/Creating-Residences.md)
-* [Commands](Residences/Commands.md)
-* [Permissions](Residences/Permissions.md)
-* [Flags Documentation](Residences/Flags-Documentation.md)
+> The live `/help` and `/rules` menus are authoritative if server behavior has
+> changed since this guide was updated.
 
-This is a backup generally of [zrips.com/residence](https://www.zrips.net/residence/) with many edits made by me. 
+## Start here
 
-[Zrips Site](https://www.zrips.net/residence/)
-[Buy the plugin here!](https://www.spigotmc.org/resources/residence-1-7-10-up-to-1-19.11480/)
+- [Getting started](Getting-Started.md) — essentials for a new player
+- [Player commands](Commands.md) — confirmed commands and examples
+- [Server features](Features.md) — economy, cross-play, worlds, and integrations
+- [Server rules](Rules.md) — standards every player must follow
+- [VIP benefits](VIP.md) — rank benefits and ideas
+- [Creating a Residence](Residences/Creating-Residences.md) — protect your build
 
----
+## Land protection
 
-## McEcon VIP
-* [VIP + Benefits](VIP.md)
+McEcon uses Residence for land claims. A Residence protects your build and
+containers unless you grant another player access.
 
----
+- [Creating a Residence](Residences/Creating-Residences.md)
+- [Residence commands](Residences/Commands.md)
+- [Residence flags](Residences/Flags-Documentation.md)
+- [Residence permissions](Residences/Permissions.md) — advanced reference
 
-## Looking for moderators and developers for the McEcon server.
+## Help and community
 
-### Main jobs: (To Do List)
-* graphics / in game menus / text and readable menus
-* plugin integrations, making them flow together better server side, so client side can look nicer.
-* Social promotion operations, youtube and twitch advocates (people who will shout out our server), Web Traffic Officers (SEO experts)
-* Payment gateway to incorporate forums, with discord, and minecraft all together. Auto assigning roles to the users in question everywhere that needs be.
-* Accounting Executive, to distribute funds properly once we get rolling.
+Use `/help` in game for support, Residence help, your balance, rules, and Discord.
+Tutorials and announcements are also available in the
+[SickGaming Minecraft forum](https://www.sickgaming.net/forum-103.html).
 
----
-
-*Getting these things done are the most important tasks at this point.*
-
----
-
-## Random Changelog:
-
-I've done a lot with serverboard, coding it to almost perfection, I think, that will make it easy to find McEcon for new visitors. With links pointing to vote for the server, find information, or direct them to the SickGaming thread.
-
-Along with finetuning the thread so users can easily find the information they want in one place. (Commands, rules, plugins used, etc)
-
-I've updated links on planetminecraft, battlemetrics, and gametracker for now. Anything different please go ahead and submit our server for traffic.
-
-Right now I'm working on integrating plugins together. Finetuning the economy, figuring out ways plugins should work together and a basic help menu that will pull it all together.
-I'll probably change /res create etc plugin to add /claimland /claim /cl etc so users that are more familiar with those will feel at home here on mcecon.
-I'm doing this first so graphics and text development doesn't have to be redone if something changes.
-
-Then develop the payment gateway to incorporate everything for effortless account upgrades.
-- The discord bot command (-minecraft) will show our server with detailed info, and have option to show other servers with (-minecraft ip) . this page will also show donation/upgrade links for our mc server.
-- The website will host all the software to upgrade, link discord, and also link minecraft. For minecraft, may be a bit difficult. Have user grab uuid from in game with certain command probably. Or give user command to run that will send website information needed to verify user. then add the users roles with command.
-
-Update 11/16/22
-- Spawn Customized to enhance user interactions and knowledgebase. /help menu is being in the works. Adding different plugins/commands to the menu so users can easily figure out how to use them. Use cmi to have holograms and signs with right clickable actions. Able to use warps within signs and holograms also.
-- Portals adapted to spawn using cmi plugin
-- Shop implemented so if new users can't find food, they can use /spawn to get back to the spawn shops.
-- /help and /rules added to cmi CustomeText Menu.
-
-
-To Do
-- update a /staffhelp menu using cmi CustomText so new staff members can easily recognize how to perform their duties.
-- also create a /staffrules so staff know what not to do.
-- resident CustomText to explain how to create residences in game. Maybe have a walk through somewhere.
-
-The rest is tbc
-10/15/23
-
-Update: 1/27/24
-Added jobs reborn, dynmap back, thought it might of been slowing down the spigot server.
-Just changed to paper, and soooo much faster. Should have done this awhile ago really.
-With jobs reborn you get paid for exploring and anything and everything you do.
-Not sure why it go deleted, but definitely needed as a economy server. Adding issues with to do list from earlier updates now.
-- Issue https://gitea.rcs1.xyz/SickGaming/minecraft-server/issues/6
-- Issue https://gitea.rcs1.xyz/SickGaming/minecraft-server/issues/5
-
-Still other issues
-
-Update: 12/1/24
-
-Updated to 1.21.3
-Most plugins updated, need to update MyWorlds when the update comes out
-Only plugin slightly lacking right now i think. Rest are mostly up to date.
-Booted and connected no issues
+If something here is outdated, tell staff which page and command need correction.
