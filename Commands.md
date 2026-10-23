@@ -1,5 +1,11 @@
 # Player Commands
 
+This page is a quick-start list. For the permission-audited indexes, open
+[Regular User Commands](User-Commands.md), [VIP Commands](VIP-Commands.md),
+[Builder Commands](Builder-Commands.md), or [Staff Commands](Staff-Commands.md).
+The [plugin directory](Plugins.md) links to a dedicated page for every active
+plugin.
+
 Arguments in `<angle brackets>` are required; arguments in `[square brackets]`
 are optional. Do not type the brackets. Availability can depend on rank, world,
 and permissions. `/help` is the live reference.

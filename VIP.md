@@ -1,5 +1,7 @@
 # VIP Benefits
 
+For the complete command-oriented index, see [VIP Commands](VIP-Commands.md).
+
 VIP inherits all regular-player commands and currently adds benefits confirmed by
 LuckPerms and Residence configuration.
 

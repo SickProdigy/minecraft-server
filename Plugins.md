@@ -1,81 +1,36 @@
-# Active Plugins and Commands
+# Active Plugin Directory
 
-This inventory is based on the plugins that loaded successfully in the latest
-Paper startup log. A plugin being present on disk does not by itself mean it is
-active.
+These versions loaded successfully after the server restart on October 22, 2026.
+The local guide explains how each plugin is used on McEcon; the project link is
+provided for players or staff who want upstream details.
 
-## Player-facing command plugins
+| Plugin | Loaded version | Role | McEcon guide | Project |
+| --- | --- | --- | --- | --- |
+| AuthMe | 6.0.2-SNAPSHOT-b2779 | Account authentication | [Guide](Plugin-Guides/AuthMe.md) | [GitHub](https://github.com/AuthMe/AuthMeReloaded) |
+| BKCommonLib | 2.0.5 | My_Worlds support library | [Guide](Plugin-Guides/BKCommonLib.md) | [Modrinth](https://modrinth.com/plugin/bkcommonlib) |
+| CMI | 9.8.11.0 | Core commands, economy, homes, moderation | [Guide](Plugin-Guides/CMI.md) | [SpigotMC](https://www.spigotmc.org/resources/3742/) |
+| CMILib | 1.6.0.1 | Shared Zrips plugin library | [Guide](Plugin-Guides/CMILib.md) | [SpigotMC](https://www.spigotmc.org/resources/87610/) |
+| ChatEmojis | 2.4.2 | Chat emoji replacements | [Guide](Plugin-Guides/ChatEmojis.md) | [SpigotMC](https://www.spigotmc.org/resources/88027/) |
+| DiscordSRV | 1.30.5 | Minecraft/Discord integration | [Guide](Plugin-Guides/DiscordSRV.md) | [GitHub](https://github.com/DiscordSRV/DiscordSRV) |
+| Floodgate | 2.2.5-SNAPSHOT | Bedrock identity support | [Guide](Plugin-Guides/Floodgate.md) | [GeyserMC](https://geysermc.org/) |
+| Geyser-Spigot | 2.12.0-SNAPSHOT | Bedrock-to-Java bridge | [Guide](Plugin-Guides/Geyser-Spigot.md) | [GeyserMC](https://geysermc.org/) |
+| Jobs Reborn | 5.2.6.7 | Jobs, income, points, quests | [Guide](Plugin-Guides/Jobs.md) | [SpigotMC](https://www.spigotmc.org/resources/4216/) |
+| LuckPerms | 5.5.88 | Groups and permissions | [Guide](Plugin-Guides/LuckPerms.md) | [Official site](https://luckperms.net/) |
+| My_Worlds | 2.0.1 | Worlds, portals, world travel | [Guide](Plugin-Guides/My-Worlds.md) | [SpigotMC](https://www.spigotmc.org/resources/39594/) |
+| PlaceholderAPI | 2.12.3 | Placeholder integration | [Guide](Plugin-Guides/PlaceholderAPI.md) | [GitHub](https://github.com/PlaceholderAPI/PlaceholderAPI) |
+| Residence | 6.0.4.1 | Land claims and protection | [Guide](Plugin-Guides/Residence.md) | [SpigotMC](https://www.spigotmc.org/resources/11480/) |
+| Vault | 1.7.3-CMI | Economy/permission bridge | [Guide](Plugin-Guides/Vault.md) | [Bukkit](https://dev.bukkit.org/projects/vault) |
+| ViaBackwards | 5.12.1 | Older-client compatibility | [Guide](Plugin-Guides/ViaBackwards.md) | [Official site](https://viaversion.com/backwards) |
+| ViaVersion | 5.12.1 | Newer-client compatibility | [Guide](Plugin-Guides/ViaVersion.md) | [Official site](https://viaversion.com/) |
+| WorldEdit | 7.4.6 | Builder world-editing tools | [Guide](Plugin-Guides/WorldEdit.md) | [EngineHub](https://enginehub.org/worldedit/) |
 
-### CMI and CMILib
+## Browse by access level
 
-CMI provides homes, spawn, teleport requests, economy views, play-time rewards,
-moderation, kits, portals, custom help text, and social aliases. Use `/help` for
-the public menu. Exact access by rank is listed in
-[Commands by Group](Command-Permissions.md). CMILib supports CMI and has no
-normal player workflow of its own.
+- [Regular user commands](User-Commands.md)
+- [VIP commands](VIP-Commands.md)
+- [Builder commands](Builder-Commands.md)
+- [Staff commands](Staff-Commands.md)
+- [Administrator commands](Admin-Commands.md)
 
-### Residence
-
-Residence provides land claims, flags, trusted-player access, subzones, markets,
-banks, and claim teleportation. Start with
-[Creating a Residence](Residences/Creating-Residences.md), then use the
-[full Residence command reference](Residences/Commands.md).
-
-### Jobs Reborn
-
-`/jobs` opens the Jobs command system. Regular users have `jobs.use` and are
-auto-joined where configured. Admin-only Jobs controls are not staff commands.
-
-### AuthMe
-
-Player commands declared by AuthMe include `/login`, `/logout`, `/register`,
-`/unregister`, `/changepassword`, `/email`, `/totp`, `/captcha`, `/verification`,
-`/premium`, and `/freemium`. Availability depends on AuthMe settings and account
-type. Never share a password or recovery code.
-
-### DiscordSRV
-
-`/discord` provides Discord linking and status actions. Regular users have link,
-linked-status, and unlink permissions. DiscordSRV administration belongs to the
-admin group, not staff.
-
-### ChatEmojis
-
-`/emoji` is the plugin's declared command. Chat emoji behavior may also work
-directly through chat without a command.
-
-### WorldEdit
-
-WorldEdit is restricted to builder work in `bigflatness2` and to admins. Builders
-have broad selection, region, clipboard, generation, history, navigation, brush,
-and tool access, but super-pickaxe is explicitly denied.
-
-### My_Worlds
-
-My_Worlds manages worlds and portals. Normal navigation is exposed through server
-portals and CMI rather than a general player command list. Builder permissions
-include specific world teleport/rejoin access in their build-world context.
-
-### LuckPerms
-
-LuckPerms controls group inheritance and permission nodes. Its management
-commands are admin-only and are not staff commands.
-
-## Compatibility and support plugins
-
-These active plugins support the server but do not provide a normal player
-command workflow:
-
-- **Geyser-Spigot** and **Floodgate** — Java/Bedrock cross-play
-- **ViaVersion** and **ViaBackwards** — client protocol compatibility; management
-  commands are operational, not player features
-- **Vault** — economy and permissions bridge
-- **PlaceholderAPI** — placeholders used by other plugins
-- **BKCommonLib** — library used by My_Worlds
-
-## Not active in the latest startup
-
-AuctionHouse, Dynmap, FastLogin, and ProtocolLib have files or old configuration
-on disk but did not load in the latest startup log. Their commands are therefore
-not documented as available. This should be revisited if they are installed and
-enabled again.
+A folder left behind by an old plugin is not evidence that the plugin is active.
+This table includes only plugins reported as loaded by the latest startup log.
